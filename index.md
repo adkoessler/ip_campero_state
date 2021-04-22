@@ -19,3 +19,7 @@
 |||Awaiting reception||
 |Control box|🟢 Working|||
 ||At INRAE|||
+
+## Lab notebooks for each robot
+
+[AA robot notebook](robotAA.md)
