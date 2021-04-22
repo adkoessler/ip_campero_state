@@ -23,5 +23,7 @@
 ## Lab notebooks for each robot
 
 [AA robot notebook](robotAA.md)
+
 [AB robot notebook](robotAB.md)
+
 [AC robot notebook](robotAC.md)
