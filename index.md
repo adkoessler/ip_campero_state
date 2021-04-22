@@ -15,7 +15,7 @@
 ||At INRAE|In Sigma|In Sigma|
 |Battery|🟢 Working|🔴 Out of order|🟢 Working|
 ||Awaiting transport|Awaiting transport|In Sigma|
-|Adapter||🟠 Unknown||
-|||Awaiting transport||
+|48V Adapter||🟠 Unknown||
+|||Awaiting reception||
 |Control box|🟢 Working|||
 ||At INRAE|||
