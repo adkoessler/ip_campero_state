@@ -2,7 +2,7 @@
 
 | AA robot   | AB robot   | AC robot   |
 |:----------:|:----------:|:----------:|
-| 🔴 Out of order | 🟠 Limited working | 🟢 Working|
+| 🔴 Out of order | 🟡 Limited working | 🟢 Working|
 |Sent to Robotnik|In Sigma|In Sigma|
 
 ## Detailed robot status
