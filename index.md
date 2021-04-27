@@ -2,7 +2,7 @@
 
 | AA robot   | AB robot   | AC robot   |
 |:----------:|:----------:|:----------:|
-| 🔴 Out of order | 🔴 Out of order | 🟢 Working|
+| 🔴 Out of order | 🟠 Limited working | 🟢 Working|
 |Sent to Robotnik|In Sigma|In Sigma|
 
 ## Detailed robot status
@@ -15,8 +15,8 @@
 ||At INRAE|In Sigma|In Sigma|
 |Battery|🟢 Working|🔴 Out of order|🟢 Working|
 ||Sent to Robotnik|Sent to Robotnik|In Sigma|
-|48V Adapter||🟠 Unknown||
-|||Awaiting reception||
+|48V Adapter||🟢 Working||
+|||In Sigma||
 |Control box|🟢 Working|||
 ||At INRAE|||
 
